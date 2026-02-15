@@ -1,2 +1,2 @@
 # pi-hash
-demo repository available
+demo repository available.
